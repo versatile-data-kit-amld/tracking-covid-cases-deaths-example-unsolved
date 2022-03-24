@@ -91,5 +91,5 @@ Through this scenario, you:
 
 ## Authored By
 
-[Versatile Data Kit Team](https://github.com/vmware/versatile-data-kit/wiki/Introduction)
+[> Go back to main page of the Workshop.](https://github.com/versatile-data-kit-amld/workshop/blob/main/README.md#tracking-covid)
 
