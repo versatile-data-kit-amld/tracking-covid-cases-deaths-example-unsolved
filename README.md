@@ -87,9 +87,7 @@ Through this scenario, you:
 * Scheduled data job executions
 
 **Congrats!**
-
-
-## Authored By
+ 
 
 **[> Go back to main page of the Workshop.](https://github.com/versatile-data-kit-amld/workshop/blob/main/README.md#tracking-covid)**
 
