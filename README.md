@@ -88,3 +88,8 @@ Through this scenario, you:
 
 **Congrats!**
 
+
+## Authored By
+
+[Versatile Data Kit Team](https://github.com/vmware/versatile-data-kit/wiki/Introduction)
+
