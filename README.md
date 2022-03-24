@@ -86,12 +86,5 @@ Through this scenario, you:
 * Presented the results in an interactive Streamlit dashboard
 * Scheduled data job executions
 
-Congrats!
+**Congrats!**
 
-## Authored By
-Alexander Avramov
-
-Data Analyst at VMware Sofia
-
-[GitHub](https://github.com/AlexanderAvramov) | 
-[LinkedIn](https://www.linkedin.com/in/alexander-avramov)
