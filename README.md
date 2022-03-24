@@ -91,5 +91,5 @@ Through this scenario, you:
 
 ## Authored By
 
-[> Go back to main page of the Workshop.](https://github.com/versatile-data-kit-amld/workshop/blob/main/README.md#tracking-covid)
+**[> Go back to main page of the Workshop.](https://github.com/versatile-data-kit-amld/workshop/blob/main/README.md#tracking-covid)**
 
